@@ -9,8 +9,8 @@ To create an interactive and insightful Tableau dashboard using the popular Supe
 
 ## 📁 Files Included
 - `Superstore.csv`: Raw dataset used
-- `Superstore_visual.twbx`: Tableau workbook file 
-- - `dashboard.png`: Exported Tableau dashboard
+- `Superstore_Visual.twbx`: Tableau workbook file 
+- `dashboard.png`: Exported Tableau dashboard
 - `README.md`: Project overview
 
 ---
